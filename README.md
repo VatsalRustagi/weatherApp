@@ -14,8 +14,10 @@
 -> Screenshots
 
 - iPhone 7
+
 ![iphone7](https://cloud.githubusercontent.com/assets/26324291/26007871/36c25040-36f7-11e7-829f-a66f06115d04.png)
 
 
 - iPhone 7 Plus
+
 ![iphone7](https://cloud.githubusercontent.com/assets/26324291/26007879/39f367ae-36f7-11e7-9df5-78094e3d2d39.png)
