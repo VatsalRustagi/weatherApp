@@ -2,6 +2,8 @@
 
 -> The app uses to openWeatherMap.org's API to forecast weather for the next 10 days.
 
+![weatherapp](https://cloud.githubusercontent.com/assets/26324291/26008016/e960a9c2-36f7-11e7-96b7-5229714a93ee.gif)
+
 -> iOS features learned through this app:
 - Alamofire framework (from cocoapods, how to allow http calls)
 - Pulling data from an API and parsing the JSON to get the data.
